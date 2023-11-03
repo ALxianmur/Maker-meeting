@@ -11,19 +11,26 @@
 我们通常见到的文本文件就像这样
 
 - txt 文件
+
   ![Alt text](annex/txt_example.png)
+
 - dox 文件
+
   ![Alt text](annex/doc_example.png)
+
 - docx 文件
+
   ![Alt text](annex/docx_example.png)
 
 还有其他类型的文本文件
 例如
 
 - markdown 文件
+
   ![Alt text](annex/md_example.png)
 
 - tex 文件
+
   ![Alt text](annex/tex_example.png)
 
 ## 文本文件的定义
@@ -148,8 +155,9 @@ print("Hello World")
 
 ### bat 脚本
 
-**_这是一个关机脚本:_**
-[click here ,it may surprise you](shutdown.bat)
+**_这是一个关机脚本_**
+
+[surprise](shutdown.bat)
 
 ## 版本控制
 
@@ -181,7 +189,7 @@ print("Hello World")
 
 ### **_git_**
 
-[git](#相关链接)
+[git 教程](#相关链接)
 
 ## 文本编辑器
 
