@@ -46,6 +46,8 @@
 
 ## 参考书目
 
+[电焊](https://www.bilibili.com/video/BV1wA411q7P2/?spm_id_from=333.337.search-card.all.click&vd_source=8e7e1d0974d53040902e9addf0f8676a)
+[色环电阻](https://zhuanlan.zhihu.com/p/143939497)
 [智能车制作](annex/卓晴-智能车制作%20%20从元器件、机电系统、控制算法到完整的智能车设计_14358115.pdf)
 
 > 此链接仅用于学习参考,请勿非法传播
