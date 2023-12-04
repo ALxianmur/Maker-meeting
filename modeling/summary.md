@@ -93,3 +93,13 @@ _激光切割机旁边的主机中装了此软件,可以直接用_
 > 需要下好软件 _Autodesk PowerMill_
 
 ### 基本操作
+
+# 相关教程推荐
+
+思维导图
+![Alt text](annex/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.png)
+[上海交通大学云汉交龙战队 第四届机甲大师校内赛第二次机械培训 ](https://www.bilibili.com/video/BV1Eh411n7WW/?share_source=copy_web&vd_source=528e49d949ae4899577360a618ad505)
+
+[机械组竞培营 solidworks 建模基础](https://www.bilibili.com/video/BV1yF411N7ta/?share_source=copy_web&vd_source=528e49d949ae4899577360a618ad505b)
+
+[【T-DT 机械组】SolidWorks 快速上手（2021.9.27）](https://www.bilibili.com/video/BV13f4y1A77m/?share_source=copy_web&vd_source=528e49d949ae4899577360a618ad505b)
